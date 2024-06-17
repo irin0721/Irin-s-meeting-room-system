@@ -1,0 +1,17 @@
+[
+    {
+        "name": "麥克筆",
+        "status": "未使用",
+        "img": "../assets/img/equipment/1.jpg"
+    },
+    {
+        "name": "白板筆",
+        "status": "使用中",
+        "img": "../assets/img/equipment/marker.jpg"
+    },
+    {
+        "name": "白板",
+        "status": "使用中",
+        "img": "../assets/img/equipment/3.jpg"
+    }
+]
